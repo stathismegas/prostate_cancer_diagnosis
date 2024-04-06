@@ -4,7 +4,6 @@ Based on internal benchmarking we settled with DenseNet for the cancer stage pre
 For details and medical background check our report at BE_223B_final.docx.pdf.
 
 For details, see <a href=https://github.com/stathismegas/prostate_cancer_diagnosis/blob/main/BE_223B_final.docx.pdf>report.pdf</a>.
-https://github.com/stathismegas/prostate_cancer_diagnosis/blob/main/BE_223B_final.docx.pdf
 
 # Cancer diagnosis (Cancer vs healthy classification)
 Running 
