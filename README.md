@@ -1,6 +1,8 @@
 # Deep Learning model for prostate cancer diagnosis and cancer stage prediction from H&E histology images
 Based on internal benchmarking we settled with DenseNet for the cancer stage prediction, and ResNet56 for the cancer/benign classification task.
 
+For details and medical background check our report at BE_223B_final.docx.pdf.
+
 # Cancer diagnosis (Cancer vs healthy classification)
 Running 
 ```
